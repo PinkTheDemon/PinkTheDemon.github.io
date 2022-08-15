@@ -8,6 +8,8 @@
 
 我还不会html语言所以其实也没什么办法，只能以后有空再慢慢调整了...
 
+好像没事了，没有被自动变换应该只是更新的比较慢罢了。
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
