@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的主页
 
-You can use the [editor on GitHub](https://github.com/PinkTheDemon/PinkTheDemon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+目前我还没有很多项目，所以其实主页上也不知道要放些什么，所以暂时先这样吧。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+后面的内容先让它们保持默认的样子好了。
 
 ### Markdown
 
