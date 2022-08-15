@@ -4,6 +4,10 @@
 
 后面的内容先让它们保持默认的样子好了。
 
+结果好像一上来就踩坑了www，为什么我的.md文件不会被自动变换成网页格式！
+
+我还不会html语言所以其实也没什么办法，只能以后有空再慢慢调整了...
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
