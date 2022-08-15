@@ -10,6 +10,8 @@
 
 好像没事了，没有被自动变换应该只是更新的比较慢罢了。
 
+另外还看到别人有把域名添加到记录集，我也不知道怎么操作，甚至不知道有什么用w
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
