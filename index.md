@@ -26,7 +26,13 @@ git branch -m master main
 
 所以我还是先把README删掉吧。
 
-然后发现当我把git的默认分支修改为main之后，VScode的默认分支也同样被修改为code了。所以第三次提交是为了测试VScode的推送是否可行。
+然后发现当我把git的默认分支修改为main之后，VScode的默认分支也同样被修改为code了。所以第三次提交是为了测试VScode的推送是否可行。结果是不可行，报错：
+
+```
+Please make sure you have the correct access rights and the repository exists.
+```
+
+百度说是因为.ssh出问题了，但我保持怀疑，用git推送如果没问题那就应该不是公钥的问题。
 
 ### Markdown
 
