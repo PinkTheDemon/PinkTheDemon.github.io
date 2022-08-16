@@ -34,6 +34,8 @@ Please make sure you have the correct access rights and the repository exists.
 
 百度说是因为.ssh出问题了，但我保持怀疑，用git推送如果没问题那就应该不是公钥的问题。
 
+然后又是经典的VScode报错Permission denied (publickey)。我记得上次解决这个问题并没有在.ssh文件夹中加什么config，但具体怎么解决的忘记了，所以先观望一段时间。
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
