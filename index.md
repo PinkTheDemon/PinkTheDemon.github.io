@@ -36,7 +36,7 @@ Please make sure you have the correct access rights and the repository exists.
 
 然后又是经典的VScode报错Permission denied (publickey)。我记得上次解决这个问题并没有在.ssh文件夹中加什么config，但具体怎么解决的忘记了，所以先观望一段时间。
 
-这次的解决方案是先在VScode终端中用git命令推送一次（会要密码），然后就可以直接在VScode左边栏里面快捷操作了。
+这次的解决方案是先在VScode终端中用git命令推送一次（会要密码），然后就可以直接在VScode左边栏里面快捷操作了。也是不对的。
 
 ### Markdown
 
