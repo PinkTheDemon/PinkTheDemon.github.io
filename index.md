@@ -12,6 +12,12 @@
 
 另外还看到别人有把域名添加到记录集，我也不知道怎么操作，甚至不知道有什么用w
 
+### 踩坑记录
+
+2022/08/16
+
+我的git默认分支名是master，但当时在github上创建主页的时候它给我的默认分支名是main，虽然在git上成功根据分支名把主页项目拉取到本地了，但VScode的默认分支名也是master，于是没办法在那里推送...不过好在目前主页只会写.md文件，暂时应该不会添加什么别的文件，直接用Typora编辑然后用git推送就好了，不用VScode也没关系。
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
