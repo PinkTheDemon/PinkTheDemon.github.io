@@ -38,6 +38,12 @@ Please make sure you have the correct access rights and the repository exists.
 
 这次的解决方案是先在VScode终端中用git命令推送一次（会要密码），然后就可以直接在VScode左边栏里面快捷操作了。也是不对的。
 
+暂时的解决方案是用网址推送而不是ssh：
+
+```
+git remote set-url origin https://github.com/******.git
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
