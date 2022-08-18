@@ -56,6 +56,8 @@ git remote set-url origin https://github.com/******.git
 
 但是如果要用html来写的话，网站好像就需要自己动手从头搭建了，总之首先先搭个框架出来吧。等等，我是不是直接在github自动创建的页面上F12把代码copy下来就可以了？从零开始的复制粘贴教程开始！
 
+不知道默认会以.md文件为主还是以.html文件为主呢？总之先上传！
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
