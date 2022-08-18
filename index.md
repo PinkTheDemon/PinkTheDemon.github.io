@@ -44,7 +44,7 @@ Please make sure you have the correct access rights and the repository exists.
 git remote set-url origin https://github.com/******.git
 ```
 
-###碎碎念日记
+### 碎碎念日记
 
 20220818
 
@@ -53,6 +53,8 @@ git remote set-url origin https://github.com/******.git
 最近有点热度的番莉可丽丝还没开始看，想等个自由点的时间再看。昨天组了一套DDD卡组也还没上手试试。感觉记录这些是不是有点太杂了www，不过反正现在主页也没人看，干脆想写啥就写啥呗。
 
 不知道能不能在主页加上直接发布和回复的功能，这是不是要学一下html语言呢？感觉总是会用到的，其实看看学学应该也还不错。而且粉红恶魔的个人主页居然是蓝色的，是不是有点不符合呢w
+
+但是如果要用html来写的话，网站好像就需要自己动手从头搭建了，总之首先先搭个框架出来吧。等等，我是不是直接在github自动创建的页面上F12把代码copy下来就可以了？从零开始的复制粘贴教程开始！
 
 ### Markdown
 
