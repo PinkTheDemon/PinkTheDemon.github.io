@@ -58,6 +58,8 @@ git remote set-url origin https://github.com/******.git
 
 不知道默认会以.md文件为主还是以.html文件为主呢？总之先上传！
 
+看来默认是.html文件，那这边就只用来记录吧，然后同步到那边，有点像目标网络呢。总之正式开始网页开发啦！首先是换背景！
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
