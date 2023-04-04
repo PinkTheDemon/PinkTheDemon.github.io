@@ -78,6 +78,14 @@ git remote set-url origin https://github.com/******.git
 
 <p>发现之前下载的世界计划缤纷舞台真的是养成类音游，主要是真的有miku，不过我三档hard难度full combo你就只给我c的评级？感情分数不考打歌全靠养成是吧...</p>
 
+<p>2022/09/15</p>
+
+<p>很久没有更新了，已经上了三周课了。在中秋看好了房，之后一天搬出去一个人住了。那天晚上跟汪和胡吃了个饭，还射了箭，挺有意思。</p>
+
+<p>一个人住也已经好几天了，感觉还挺棒，总之起码睡得很舒服，头不疼了腰背也不疼了。</p>
+
+<p>但还是很可惜地没能完全平安无事，得了带状疱疹，第一天打针还因为中午没吃饱而头晕，第二天医生给我把吊水换成了口服，现在可见光治疗做完了，肌肉针也打完了，明天看情况要不要去复查吧。</p>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
